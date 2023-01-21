@@ -9,7 +9,11 @@ const StateProvider = (props) => {
         folder: [
           {
             name: "DSA",
-            playground: []
+            playgrounds: [
+              {
+                groundName: "Stack Implementaion"
+              }
+            ]
           }
         ],
     }
