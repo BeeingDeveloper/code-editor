@@ -1,0 +1,13 @@
+.bg-left-section{
+    background: rgb(30, 30, 30);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-shadow{
+    box-shadow: 5px 2px 15px 3px rgba(254, 254, 254, 0.487);   
+}
+.btn-text{
+    font-weight: 400;
+}
